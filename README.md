@@ -1,6 +1,7 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project about weather information of different cities.
+For specific this project i took help from AI for front-end development so that i can learn how to make a full project as it was my first project.
 
 ## Getting Started
 
