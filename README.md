@@ -4,15 +4,3 @@ A new Flutter project about weather information of different cities.
 For specific this project i took help from AI for front-end development so that i can learn how to make a full project as it was my first project.
 I just remove the API key which was my personal API key (from Openweather website). By creating an API key of that website it can be use as a good and comfortable app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
